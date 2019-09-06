@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/robert/NumericKeyboard/Example/build/Debug-iphoneos/NumericKeyboard/NumericKeyboard.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/robert/NumericKeyboard/Example/build/Pods.build/Debug-iphoneos/NumericKeyboard.build/unextended-module.modulemap",
+    }]
+  }]
+}

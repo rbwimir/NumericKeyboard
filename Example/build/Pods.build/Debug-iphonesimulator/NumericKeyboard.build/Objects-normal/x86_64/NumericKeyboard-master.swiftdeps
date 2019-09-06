@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.6 clang-1100.0.32.1)"
+options: "a455a9b12320cef18269b726f50246fd"
+build_time: [1567770792, 742976000]
+inputs:
+  "/Users/robert/NumericKeyboard/NumericKeyboard/Classes/NKInputView.swift": [1567770726, 525702067]
+  "/Users/robert/NumericKeyboard/NumericKeyboard/Classes/NKKeyboardButton.swift": [1567770726, 565117125]
